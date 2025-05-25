@@ -1,0 +1,132 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amit Verma",
+      "age": 17,
+      "gender": "Male",
+      "class": "12A",
+      "marks": {
+        "math": 88,
+        "science": 92,
+        "english": 75,
+        "history": 70,
+        "computer": 95
+      },
+      "attendance": 92,
+      "city": "Delhi"
+    },
+    {
+      "id": 2,
+      "name": "Sneha Reddy",
+      "age": 16,
+      "gender": "Female",
+      "class": "11B",
+      "marks": {
+        "math": 78,
+        "science": 85,
+        "english": 88,
+        "history": 72,
+        "computer": 80
+      },
+      "attendance": 96,
+      "city": "Hyderabad"
+    },
+    {
+      "id": 3,
+      "name": "Ravi Sharma",
+      "age": 17,
+      "gender": "Male",
+      "class": "12A",
+      "marks": {
+        "math": 90,
+        "science": 89,
+        "english": 72,
+        "history": 68,
+        "computer": 85
+      },
+      "attendance": 87,
+      "city": "Mumbai"
+    },
+    {
+      "id": 4,
+      "name": "Anjali Mehta",
+      "age": 15,
+      "gender": "Female",
+      "class": "10C",
+      "marks": {
+        "math": 82,
+        "science": 78,
+        "english": 91,
+        "history": 85,
+        "computer": 88
+      },
+      "attendance": 94,
+      "city": "Pune"
+    },
+    {
+      "id": 5,
+      "name": "Kunal Singh",
+      "age": 16,
+      "gender": "Male",
+      "class": "11B",
+      "marks": {
+        "math": 65,
+        "science": 70,
+        "english": 60,
+        "history": 72,
+        "computer": 75
+      },
+      "attendance": 81,
+      "city": "Jaipur"
+    },
+    {
+      "id": 6,
+      "name": "Priya Das",
+      "age": 17,
+      "gender": "Female",
+      "class": "12A",
+      "marks": {
+        "math": 95,
+        "science": 98,
+        "english": 85,
+        "history": 90,
+        "computer": 97
+      },
+      "attendance": 98,
+      "city": "Kolkata"
+    },
+    {
+      "id": 7,
+      "name": "Farhan Ali",
+      "age": 15,
+      "gender": "Male",
+      "class": "10C",
+      "marks": {
+        "math": 74,
+        "science": 69,
+        "english": 80,
+        "history": 78,
+        "computer": 70
+      },
+      "attendance": 89,
+      "city": "Bangalore"
+    },
+    {
+      "id": 8,
+      "name": "Meera Kapoor",
+      "age": 16,
+      "gender": "Female",
+      "class": "11B",
+      "marks": {
+        "math": 88,
+        "science": 90,
+        "english": 93,
+        "history": 85,
+        "computer": 92
+      },
+      "attendance": 95,
+      "city": "Chennai"
+    }
+  ]
+}
